@@ -1073,6 +1073,18 @@ section,
   background-color: var(--accent-color);
 }
 
+.testimonial-name {
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.testimonial-title {
+    display: block;
+    font-size: 14px;
+    color: #6c757d; /* gray */
+    margin-bottom: 8px;
+}
+
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
